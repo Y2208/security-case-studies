@@ -17,7 +17,7 @@ seguridad de endpoints y respuesta a incidentes.
 
 | # | Auditoría | Categoría | Año | Estado |
 |---|-----------|-----------|-----|--------|
-| 01 | Coming soon | Network Security | 2025 | 🔄 En proceso |
+| 01 | Coming soon | Softwae Security | 2025 | 🔄 Done |
 
 ---
 
@@ -26,8 +26,7 @@ seguridad de endpoints y respuesta a incidentes.
 ![Kaspersky](https://img.shields.io/badge/Kaspersky_Security_Center-006D5C?style=flat-square&logo=kaspersky&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square)
+![Goverlan](https://img.shields.io/badge/Goverlan-000000?style=flat-yellow)
 
 ---
 
@@ -45,8 +44,8 @@ Cada auditoría sigue este formato:
 
 ## 📬 Contacto
 
-- 💼 [LinkedIn](https://linkedin.com/in/TU-PERFIL)
-- 📧 tu@email.com
+- 💼 [LinkedIn](https://linkedin.com/in/yaliannavaldes)
+- 📧 yalyvd9622@email.com
 
 ---
 
